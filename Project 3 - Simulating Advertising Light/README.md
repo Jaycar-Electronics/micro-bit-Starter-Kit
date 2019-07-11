@@ -6,6 +6,8 @@ In daily life, you may often see some advertising boards composed of various LED
 
 ## Coding the micro:bit
 ![alt text](simulating-advertising-light-code-1.png "Simulating An Advertising Light - Code Block")
+
+
 ![alt text](simulating-advertising-light-code-2.png "Simulating An Advertising Light - Code Block")
 
 Powered up and done uploading the code, you can see the external LED lights connected on IO port are brightening, and then dimming one by one circularly.
