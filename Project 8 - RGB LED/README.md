@@ -16,6 +16,7 @@ Quantity | Component
 
 ## Coding the micro:bit
 ![alt text](rgb-led-code-1.png "RGB LED - Code Block")
+
 ![alt text](rgb-led-code-2.png "RGB LED - Code Block")
 
 Create or download the hex file, power up the unit & upload the code. You should be able to see the RGB LED continue to emit the red light for 1S, the green light for 1S, the blue light for 1S, the yellow light for 1S, the purple light for 1S, & finally white light for 1S before repeating.
