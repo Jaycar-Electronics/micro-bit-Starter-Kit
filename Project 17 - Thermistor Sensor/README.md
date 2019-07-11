@@ -4,7 +4,7 @@
 
 A thermistor can sense the temperature change of surroundings in real time. In this project, it will convert the temperature variation into voltage, and input the voltage to the micro:bit. Finally, the result will be displayed on the serial monitor.  
 
-$Note: This project uses the Arduino IDE.
+**Note:** This project uses the Arduino IDE.
 
 ## Required Components
 Quantity | Component
@@ -29,4 +29,4 @@ Create or download the hex file, power up the unit & upload the code. Open the A
 ![alt text](thermistor-sensor-code-4.png "Thermistor Sensor - Code Block")
 
 #### If you are having trouble coding the micro:bit, you can download a copy of the hex file below
-[Download Hex File](https://github.com/Jaycar-Electronics/micro-bit-Starter-Kit/blob/master/Project%208%20-%20RGB%20LED/RGB-LED.zip?raw=true)
+[Download Hex File](https://github.com/Jaycar-Electronics/micro-bit-Starter-Kit/blob/master/Project%2017%20-%20Thermistor%20Sensor/Thermistor-Sensor.zip?raw=true)
