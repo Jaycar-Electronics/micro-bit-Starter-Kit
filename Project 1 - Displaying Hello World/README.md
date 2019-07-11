@@ -1,60 +1,25 @@
-# Traffic Lights
+# Displaying Hello World
 
-![alt text](traffic-lights.png "Traffic Light Circuit")
+This is an entry level project for you to test the communication between the micro:bit and your PC.
 
-## Required Kit Components
-| Part          | Quantity  		|
-| ------------- |:---------------------:|
-| LEDs		| 3 (green/red/yellow)	|
-| Resistors	| 3			|
-| Jumper Wires	| 4     		|
+**Note:** This project uses the Arduino IDE.
 
-## Code
-```
-Traffic Light
+## Required Components
+Quantity | Component
+--- | ---
+1 | micro:bit
+1 | USB cable
 
-int GREEN = 2;
-int YELLOW = 3;
-int RED = 4;
-int DELAY_GREEN = 5000;
-int DELAY_YELLOW = 2000;
-int DELAY_RED = 5000;
+## Coding the micro:bit
+![alt text](displaying-helloworld-code-1.png "Displaying Hello World - Code Block")
 
-void setup()
-{
-  pinMode(GREEN, OUTPUT);
-  pinMode(YELLOW, OUTPUT);
-  pinMode(RED, OUTPUT);
-}
+Create or download the hex file, power up the unit & upload the code. Within the Arduino IDE, set the COM port, open the serial monitor, select the baud rate 115200 (because the baud rate of a micro:bit is 115200), type “R” on the keyboard, then click “Send”. You should see the monitor display “Hello world!”. Shown below.
 
-void loop()
-{
-  green_light();
-  delay(DELAY_GREEN);
-  yellow_light();
-  delay(DELAY_YELLOW);
-  red_light();
-  delay(DELAY_RED);
-}
+![alt text](displaying-helloworld-code-2.png "Displaying Hello World - Code Block")
 
-void green_light()
-{
-  digitalWrite(GREEN, HIGH);
-  digitalWrite(YELLOW, LOW);
-  digitalWrite(RED, LOW);
-}
+![alt text](displaying-helloworld-code-3.png "Displaying Hello World - Code Block")
 
-void yellow_light()
-{
-  digitalWrite(GREEN, LOW);
-  digitalWrite(YELLOW, HIGH);
-  digitalWrite(RED, LOW);
-}
+![alt text](displaying-helloworld-code-4.png "Displaying Hello World - Code Block")
 
-void red_light()
-{
-  digitalWrite(GREEN, LOW);
-  digitalWrite(YELLOW, LOW);
-  digitalWrite(RED, HIGH);
-}
-```
+#### If you are having trouble coding the micro:bit, you can download a copy of the hex file below
+[Download Hex File](https://github.com/Jaycar-Electronics/micro-bit-Starter-Kit/blob/master/Project%202%20-%20Blinking%20an%20LED/Blinking-LED.zip?raw=true)
