@@ -4,7 +4,7 @@
 
 The LM35 temperature sensor can sense the current environmental temperature. In this project, it will convert the temperature into voltage, and input the voltage to the micro:bit. Finally, the result will be displayed on the serial monitor.  
 
-$Note: This project uses the Arduino IDE.
+**Note:** This project uses the Arduino IDE.
 
 ## Required Components
 Quantity | Component
@@ -28,4 +28,4 @@ Create or download the hex file, power up the unit & upload the code. Open the A
 ![alt text](lm35-temperature-sensor-code-4.png "LM35 Temperature Sensor - Code Block")
 
 #### If you are having trouble coding the micro:bit, you can download a copy of the hex file below
-[Download Hex File](https://github.com/Jaycar-Electronics/micro-bit-Starter-Kit/blob/master/Project%208%20-%20RGB%20LED/RGB-LED.zip?raw=true)
+[Download Hex File](https://github.com/Jaycar-Electronics/micro-bit-Starter-Kit/blob/master/Project%2018%20-%20LM35%20Temperature%20Sensor/LM35-Temperature-Sensor.zip?raw=true)
