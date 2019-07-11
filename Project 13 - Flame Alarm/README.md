@@ -4,7 +4,7 @@
 
 In this project, we are going to control a buzzer through the use of a flame sensor. 
 
-$Please note: this project should only be attempted under adult supervision.
+**Please note:** this project should only be attempted under adult supervision.
 
 ## Required Components
 Quantity | Component
