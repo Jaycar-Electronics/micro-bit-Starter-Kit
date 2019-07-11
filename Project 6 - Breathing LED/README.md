@@ -1,0 +1,26 @@
+# Breathing LED
+
+![alt text](breathing-led.png "Breathing LED")
+
+Learn to control LED brightness using the micro:bit code. We are going to control LED on and off gradually which simulates breathing. 
+
+## Required Components
+Quantity | Component
+--- | ---
+1 | micro:bit
+1 | T-type adapter
+1 | USB cable
+1 | LED
+2 | 220Ω resistor
+1 | Breadboard
+2 | Jumper wire
+
+## Coding the micro:bit
+### Using the 5*5 matrix on the micro:bit
+![alt text](breathing-led-code-1.png "Breathing LED - Code Block")
+### Using an extrnal LED (as pictured in the circuit diagram)
+![alt text](breathing-led-code-2.png "Breathing LED - Code Block")
+
+Powered up the unit & upload the code. The LED should gradually dim and then brighten in a breathing pattern.
+#### If you are having trouble coding the micro:bit, you can download a copy of the hex file below
+[Download Hex File](https://github.com/Jaycar-Electronics/micro-bit-Starter-Kit/blob/master/Project%205%20-%20Making%20a%20Responder/Making-a-Responder.zip?raw=true)
