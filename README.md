@@ -18,7 +18,7 @@ Create or download the hex file, power up the unit & upload the code. Within the
 
 ![alt text](microbit-2.png "micro:bit")
 
-Using the [micro:bit MakeCode Block editor] (https://makecode.microbit.org/), write your first micro:bit code. You can drag and drop some example blocks and try your program on the Simulator in the Javascript Blocks Editor.
+Using the [micro:bit MakeCode Block editor](https://makecode.microbit.org/), write your first micro:bit code. You can drag and drop some example blocks and try your program on the Simulator in the Javascript Blocks Editor.
 
 ![alt text](microbit-3.png "micro:bit")
 
