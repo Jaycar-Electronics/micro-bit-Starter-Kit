@@ -24,4 +24,5 @@ Quantity | Component
 Create or download the hex file, power up the unit & upload the code. The LED should gradually dim and then brighten in a breathing pattern.
 #### If you are having trouble coding the micro:bit, you can download a copy of the hex file below
 [Download Hex File - 5*5 Matrix](https://github.com/Jaycar-Electronics/micro-bit-Starter-Kit/blob/master/Project%206%20-%20Breathing%20LED/Breathing-LED-1.zip?raw=true)
+
 [Download Hex File - External LED](https://github.com/Jaycar-Electronics/micro-bit-Starter-Kit/blob/master/Project%206%20-%20Breathing%20LED/Breathing-LED-2.zip?raw=true)
