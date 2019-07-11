@@ -7,10 +7,9 @@ In daily life, you may often see some advertising boards composed of various LED
 ## Coding the micro:bit
 ![alt text](simulating-advertising-light-code-1.png "Simulating An Advertising Light - Code Block")
 
-
 ![alt text](simulating-advertising-light-code-2.png "Simulating An Advertising Light - Code Block")
 
 Powered up and done uploading the code, you can see the external LED lights connected on IO port are brightening, and then dimming one by one circularly.
 
 #### If you are having trouble coding the micro:bit, you can download a copy of the hex file below
-[Download Hex File](https://github.com/Jaycar-Electronics/micro-bit-Starter-Kit/blob/master/Project%202%20-%20Blinking%20an%20LED/Blinking-LED.zip?raw=true)
+[Download Hex File](https://github.com/Jaycar-Electronics/micro-bit-Starter-Kit/blob/master/Project%203%20-%20Simulating%20Advertising%20Light/Simulating-Advertising-Light.zip?raw=true)
