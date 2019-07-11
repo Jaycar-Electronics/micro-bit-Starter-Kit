@@ -21,4 +21,4 @@ Quantity | Component
 Create or download the hex file, power up the unit & upload the code. You should be able to rotate the knob on the top of potentiometer and see the servo arm turn.
 
 #### If you are having trouble coding the micro:bit, you can download a copy of the hex file below
-[Download Hex File](https://github.com/Jaycar-Electronics/micro-bit-Starter-Kit/blob/master/Project%208%20-%20RGB%20LED/RGB-LED.zip?raw=true)
+[Download Hex File](https://github.com/Jaycar-Electronics/micro-bit-Starter-Kit/blob/master/Project%2012%20-%20Driving%20Servo%20Motor/Driving-Servo-Motor.zip?raw=true)
