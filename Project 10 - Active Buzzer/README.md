@@ -20,4 +20,4 @@ Quantity | Component
 Create or download the hex file, power up the unit & upload the code. You should be able to hear the active buzzer beep for 0.5 seconds, then stop for 0.5 seconds circularly.
 
 #### If you are having trouble coding the micro:bit, you can download a copy of the hex file below
-[Download Hex File](https://github.com/Jaycar-Electronics/micro-bit-Starter-Kit/blob/master/Project%208%20-%20RGB%20LED/RGB-LED.zip?raw=true)
+[Download Hex File](https://github.com/Jaycar-Electronics/micro-bit-Starter-Kit/blob/master/Project%2010%20-%20Active%20Buzzer/Active-Buzzer.zip?raw=true)
