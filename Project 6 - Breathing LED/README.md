@@ -21,6 +21,7 @@ Quantity | Component
 ### Using an extrnal LED (as pictured in the circuit diagram)
 ![alt text](breathing-led-code-2.png "Breathing LED - Code Block")
 
-Powered up the unit & upload the code. The LED should gradually dim and then brighten in a breathing pattern.
+Create or download the hex file, power up the unit & upload the code. The LED should gradually dim and then brighten in a breathing pattern.
 #### If you are having trouble coding the micro:bit, you can download a copy of the hex file below
-[Download Hex File](https://github.com/Jaycar-Electronics/micro-bit-Starter-Kit/blob/master/Project%205%20-%20Making%20a%20Responder/Making-a-Responder.zip?raw=true)
+[Download Hex File - 5*5 Matrix](https://github.com/Jaycar-Electronics/micro-bit-Starter-Kit/blob/master/Project%205%20-%20Making%20a%20Responder/Making-a-Responder.zip?raw=true)
+[Download Hex File - External LED](https://github.com/Jaycar-Electronics/micro-bit-Starter-Kit/blob/master/Project%205%20-%20Making%20a%20Responder/Making-a-Responder.zip?raw=true)

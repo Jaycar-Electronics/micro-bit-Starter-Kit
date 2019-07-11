@@ -18,6 +18,6 @@ Quantity | Component
 ## Coding the micro:bit
 ![alt text](button-controlled-led-code.png "Button Controlled LED - Code Block")
 
-Powered up, done uploading the code to board, when pressing down the button A on the micro:bit, LED on; if not, LED off.
+Create or download the hex file, power up the unit & upload the code. When pressing down the button A on the micro:bit, LED on; if not, LED off.
 #### If you are having trouble coding the micro:bit, you can download a copy of the hex file below
 [Download Hex File](https://github.com/Jaycar-Electronics/micro-bit-Starter-Kit/blob/master/Project%204%20-%20Button%20Controlled%20LED/Button-Controlled-LED.zip?raw=true)
