@@ -4,7 +4,7 @@
 
 In this project, we will use a potentiometer to adjust the analog quantity of the analog pin. When rotating the potentiometer, the value will change and is displayed on the serial monitor. 
 
-$Note: This project uses the Arduino IDE.
+**Note:** This project uses the Arduino IDE.
 
 ## Required Components
 Quantity | Component
@@ -28,4 +28,4 @@ Create or download the hex file, power up the unit & upload the code. Open the A
 ![alt text](microbit-analog-read-code-4.png "micro:bit Analog Read - Code Block")
 
 #### If you are having trouble coding the micro:bit, you can download a copy of the hex file below
-[Download Hex File](https://github.com/Jaycar-Electronics/micro-bit-Starter-Kit/blob/master/Project%208%20-%20RGB%20LED/RGB-LED.zip?raw=true)
+[Download Hex File](https://github.com/Jaycar-Electronics/micro-bit-Starter-Kit/blob/master/Project%2016%20-%20Microbit%20Analog%20Read/microbit-Analog-Read.zip?raw=true)
