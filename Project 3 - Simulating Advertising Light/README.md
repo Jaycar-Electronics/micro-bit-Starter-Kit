@@ -4,6 +4,17 @@
 
 In daily life, you may often see some advertising boards composed of various LED lights. Different LED lights on the advertising board can form an amazing lighting effect. In this lesson, we will use LED light program to simulate an advertising light, brightening and dimming the lights one at a time.
 
+## Required Components
+Quantity | Component
+--- | ---
+1 | micro:bit
+1 | T-type adapter
+1 | USB cable
+5 | LED
+5 | 220Ω resistor
+1 | Breadboard
+7 | Jumper wire
+
 ## Coding the micro:bit
 ![alt text](simulating-advertising-light-code-1.png "Simulating An Advertising Light - Code Block")
 
