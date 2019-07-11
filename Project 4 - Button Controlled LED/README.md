@@ -20,4 +20,4 @@ Quantity | Component
 
 Powered up, done uploading the code to board, when pressing down the button A on the micro:bit, LED on; if not, LED off.
 #### If you are having trouble coding the micro:bit, you can download a copy of the hex file below
-[Download Hex File](https://github.com/Jaycar-Electronics/micro-bit-Starter-Kit/blob/master/Project%202%20-%20Blinking%20an%20LED/Blinking-LED.zip?raw=true)
+[Download Hex File](https://github.com/Jaycar-Electronics/micro-bit-Starter-Kit/blob/master/Project%204%20-%20Button%20Controlled%20LED/Button-Controlled-LED.zip?raw=true)
