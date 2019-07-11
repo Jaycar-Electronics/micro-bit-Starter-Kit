@@ -22,4 +22,4 @@ Quantity | Component
 Create or download the hex file, power up the unit & upload the code. Tilt the two switches to one side and you should see that one LED dims gradually while the other becomes gradually brighter.
 
 #### If you are having trouble coding the micro:bit, you can download a copy of the hex file below
-[Download Hex File](https://github.com/Jaycar-Electronics/micro-bit-Starter-Kit/blob/master/Project%208%20-%20RGB%20LED/RGB-LED.zip?raw=true)
+[Download Hex File](https://github.com/Jaycar-Electronics/micro-bit-Starter-Kit/blob/master/Project%2015%20-%20Magical%20Light%20Cup/Magical-Light-Cup.zip?raw=true)
