@@ -23,4 +23,4 @@ Quantity | Component
 Create or download the hex file, power up the unit & upload the code. You should be able to see that the higher the light that the photocell senses, the duller the LED; the lower the light the photocell senses, the brighter the LED.
 
 #### If you are having trouble coding the micro:bit, you can download a copy of the hex file below
-[Download Hex File](https://github.com/Jaycar-Electronics/micro-bit-Starter-Kit/blob/master/Project%208%20-%20RGB%20LED/RGB-LED.zip?raw=true)
+[Download Hex File](https://github.com/Jaycar-Electronics/micro-bit-Starter-Kit/blob/master/Project%209%20-%20Photosensitive%20Light/Photosensitive-Light.zip?raw=true)
