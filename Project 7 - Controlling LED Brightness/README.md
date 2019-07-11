@@ -21,4 +21,4 @@ Quantity | Component
 
 Create or download the hex file, power up the unit & upload the code. You can adjust the brightness of the LED by rotating the knob on the potentiometer.
 #### If you are having trouble coding the micro:bit, you can download a copy of the hex file below
-[Download Hex File](https://github.com/Jaycar-Electronics/micro-bit-Starter-Kit/blob/master/Project%206%20-%20Breathing%20LED/Breathing-LED-1.zip?raw=true)
+[Download Hex File](https://github.com/Jaycar-Electronics/micro-bit-Starter-Kit/blob/master/Project%207%20-%20Controlling%20LED%20Brightness/Controlling-LED-Brightness.zip?raw=true)
