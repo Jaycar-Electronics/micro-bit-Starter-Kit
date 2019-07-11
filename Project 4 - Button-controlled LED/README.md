@@ -1,0 +1,24 @@
+# Button Controlled LED
+
+![alt text](button-controlled-led.png "Button Controlled LED")
+
+Micro:bit has three built-in buttons; two for user buttons (labelled A and B) and one for resetting the board. In this project we are going to use a button on the micro:bit to turn an external LED on and off. 
+
+## Required Components
+Quantity | Component
+--- | ---
+1 | micro: bit main board 
+1 | T-type adapter
+1 | USB cable
+1 | LED
+1 | 220Ω resistor
+1 | Breadboard
+2 | Breadboard jumper wire
+
+## Coding the micro:bit
+![alt text](button-controlled-led-code.png "Button Controlled LED - Code Block")
+
+Powered up, done uploading the code to board, when pressing down the button A on the micro:bit, LED on; if not, LED off.
+
+#### If you are having trouble coding the micro:bit, you can download a copy of the hex file below
+[Download Hex File](https://github.com/Jaycar-Electronics/micro-bit-Starter-Kit/blob/master/Project%202%20-%20Blinking%20an%20LED/Blinking-LED.zip?raw=true)
