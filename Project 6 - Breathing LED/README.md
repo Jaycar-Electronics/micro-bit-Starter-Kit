@@ -11,7 +11,7 @@ Quantity | Component
 1 | T-type adapter
 1 | USB cable
 1 | LED
-2 | 220Ω resistor
+1 | 220Ω resistor
 1 | Breadboard
 2 | Jumper wire
 
